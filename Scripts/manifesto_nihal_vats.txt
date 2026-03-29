@@ -1,0 +1,5 @@
+Open Source Manifesto
+I use Git every day — free software anyone can read and change.
+Freedom to me means Free.
+One day I'll build MindMate and share it the same way.
+Signed: nihal_vats | 29 March 2026
