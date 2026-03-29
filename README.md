@@ -4,7 +4,6 @@
 **Student:** Nihal Vats | `24BCE10837`  
 **Program:** B.Tech Computer Science | Semester V  
 **Software Audited:** Git — GNU General Public License v2  
-**Institution:** VIT Bhopal University  
 **Submission:** March 2026  
 
 ---
